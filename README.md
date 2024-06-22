@@ -9,7 +9,6 @@ In this project, Python was used to explore data related to bike share systems f
 
 ### Files used
 bikeshare.py
-
 chicago.csv
 new_york_city.csv
 washington.csv
