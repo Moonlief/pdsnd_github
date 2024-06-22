@@ -1,6 +1,6 @@
 
 ### Date created
-22 June 2024
+22 07 2024
 ### Project Title
 Bikeshare Project
 
@@ -9,10 +9,10 @@ In this project, Python was used to explore data related to bike share systems f
 
 ### Files used
 bikeshare.py
+
 chicago.csv
 new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity and team
